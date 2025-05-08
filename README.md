@@ -1,6 +1,3 @@
-# GitHub Repository Explanation and Upload Guide
-
-Based on the files you've shared, this appears to be a network security project focused on detecting ARP poisoning and promiscuous mode attacks. Here's how to properly structure and upload it to GitHub:
 
 ## Project Overview
 
